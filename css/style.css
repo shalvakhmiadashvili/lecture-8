@@ -1,0 +1,33 @@
+.s-1 {
+
+	background-image: url(https://i.etsystatic.com/29278230/r/il/ad652c/3267417116/il_fullxfull.3267417116_ddlz.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: darkolivegreen;
+	background-position: center;
+	height: 100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+h1 {
+	font-size: 50px;
+	color: green;
+	font-style: unset;
+}	
+/*section 2*/
+s-2 {
+	background-color: darkred;
+}
+.conteiner {
+	width: 1170px;
+	margin: 0 auto;
+	background-color: green;
+
+}
+	
+
+
